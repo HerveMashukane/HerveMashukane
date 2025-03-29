@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerveMashukane
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end web development technologies, including HTML, CSS, Tailwind CSS, JavaScript,TypeScript, and frameworks like Angular.
+- 🌱 I am a Web Developer | Front-End Enthusiast | Proficient in JavaScript, TypeScript, Angular, Tailwind CSS, HTML and CSS. Building User-Centered Applications | Fast Learner and committed to Adapting and Growing in Tech. 
 - 💞️ I’m looking to collaborate on open source web development projects.
 - 📫 How to reach me: hervemashukane@gmail.com or connect with me on LinkedIn on www.linkedin.com/in/hervé-mashukane-9b104b304
 - 😄 Pronouns: He/Him
