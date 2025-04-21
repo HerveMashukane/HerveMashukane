@@ -6,18 +6,23 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 🛠️ Tech Stack
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+), TypeScript
-- Angular
-- Responsive Web Design
-- Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
+- **Languages & Markup**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks & Libraries**: Angular, Tailwind CSS
+- **Tools & Workflow**: Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
+- **Other**: Responsive Web Design, Component-Based Architecture
 
 ---
 
 ## 🌟 Projects
-- [Portfolio Website](https://github.com/HerveMashukane/Portfolio)
-- [HiroMate-App](https://github.com/HerveMashukane/foodieApp)
-- [FoodieApp](https://github.com/HerveMashukane/HiroMate-App)
+- 🔗 [**Portfolio Website**](https://github.com/HerveMashukane/Portfolio) – Showcasing my dev skills and projects (Angular + Tailwind CSS)
+- 🔗 [**HiroMate-App**](https://github.com/HerveMashukane/HiroMate-App) – Student management platform for addresses, status, etc.
+- 🔗 [**FoodieApp**](https://github.com/HerveMashukane/foodieApp) – Recipe management app for food lovers
+
+---
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/herv%C3%A9-mashukane-9b104b304/)
+- 🌐 [Portfolio Website](https://herve-portfolio.netlify.app/)
 
 ---
 
@@ -27,15 +32,6 @@ I enjoy building modern, responsive web applications and continuously learning n
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=radical)
 
-
-
 ---
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/herv%C3%A9-mashukane-9b104b304/)
-- [Portfolio Website](https://herve-portfolio.netlify.app/)
-
----
-
-_"Building better every day."_ 🚀
-
+_“Building better every day.”_ 🚀
