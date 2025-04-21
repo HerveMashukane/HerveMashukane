@@ -6,8 +6,11 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 🛠️ Tech Stack
-- **Front-End:** HTML, CSS, JavaScript, Angular, TypeScript, Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+), TypeScript
+- Angular
+- Responsive Web Design
+- Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
 
 ---
 
