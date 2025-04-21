@@ -12,9 +12,9 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 🌟 Projects
-- [Portfolio Website](https://github.com/your-username/your-portfolio-repo)
-- [HiroMate-App](https://github.com/your-username/hiromate-app)
-- [FoodieApp](https://github.com/your-username/foodieapp)
+- [Portfolio Website](https://github.com/HerveMashukane/Portfolio)
+- [HiroMate-App](https://github.com/HerveMashukane/foodieApp)
+- [FoodieApp](https://github.com/HerveMashukane/HiroMate-App)
 
 ---
 
