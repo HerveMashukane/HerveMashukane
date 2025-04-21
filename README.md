@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @HerveMashukane
-- 👀 I’m interested in web development.
-- 🌱 I am a Web Developer | Front-End Enthusiast | Proficient in JavaScript, TypeScript, Angular, Tailwind CSS, HTML and CSS. Building User-Centered Applications | Fast Learner and committed to Adapting and Growing in Tech. 
-- 💞️ I’m looking to collaborate on open source web development projects.
-- 📫 How to reach me: hervemashukane@gmail.com or connect with me on LinkedIn on www.linkedin.com/in/hervé-mashukane-9b104b304
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love teaching English in my free time!
+# 👋 Hi, I'm Hervé Mashukane
 
-<!---
-HerveMashukane/HerveMashukane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Front-End Developer** specializing in **Angular**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.  
+I enjoy building modern, responsive web applications and continuously learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
+- **Front-End:** HTML, CSS, JavaScript, Angular, TypeScript, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
+
+---
+
+## 🌟 Projects
+- [Portfolio Website](https://github.com/your-username/your-portfolio-repo)
+- [HiroMate-App](https://github.com/your-username/hiromate-app)
+- [FoodieApp](https://github.com/your-username/foodieapp)
+
+---
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/herv%C3%A9-mashukane-9b104b304/)
+- [Portfolio Website](https://herve-portfolio.netlify.app/)
+
+---
+
+_"Building better every day."_ 🚀
+
