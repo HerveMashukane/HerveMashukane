@@ -27,6 +27,7 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 📊 GitHub Stats
+📌 I'm actively improving my GitHub presence — more commits, contributions, and open-source work coming soon!
 
 ![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=radical&hide_title=true)
 
