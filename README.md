@@ -21,6 +21,16 @@ I enjoy building modern, responsive web applications and continuously learning n
 
 ---
 
+## 📊 GitHub Stats
+
+![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=radical&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=radical)
+
+
+
+---
+
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/herv%C3%A9-mashukane-9b104b304/)
 - [Portfolio Website](https://herve-portfolio.netlify.app/)
