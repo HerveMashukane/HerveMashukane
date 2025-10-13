@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Hervé Mashukane
 
-I'm a passionate **Front-End Developer** specializing in **Angular**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.  
+I'm a passionate **Front-End Software Developer** specializing in **Angular**, **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.  
 I enjoy building modern, responsive web applications and continuously learning new technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages & Markup**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: Angular, Tailwind CSS
+- **Frameworks & Libraries**: Angular, React, Tailwind CSS
 - **Tools & Workflow**: Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
 - **Other**: Responsive Web Design, Component-Based Architecture
 
@@ -27,7 +27,7 @@ I enjoy building modern, responsive web applications and continuously learning n
 ---
 
 ## 📊 GitHub Stats
-📌 I'm actively improving my GitHub presence — more commits, contributions, and open-source work coming soon!
+📌 I'm actively improving my GitHub presence — more commits, contributions, and open-source work!
 
 ![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=radical&hide_title=true)
 
