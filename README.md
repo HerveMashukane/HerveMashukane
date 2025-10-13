@@ -9,7 +9,7 @@ I enjoy building modern, responsive web applications and continuously learning n
 - **Languages & Markup**: HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Frameworks & Libraries**: Angular, React, Tailwind CSS
 - **Tools & Workflow**: Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
-- **Other**: Responsive Web Design, Component-Based Architecture
+- **Other**: DOM manipulation, OOP principles, Responsive Web Design, Component-Based Architecture
 
 ---
 
