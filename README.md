@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hervé Mashukane  
-Frontend Engineer | Angular • React • TypeScript • Tailwind CSS  
+## Frontend Engineer | Angular • React • TypeScript • Tailwind CSS  
 
 I build real-world, production-ready web applications focused on performance, scalability, and clean UI architecture.  
 I have experience working both independently and within professional teams on live products, dashboards, and commercial platforms.
@@ -8,16 +8,16 @@ I have experience working both independently and within professional teams on li
 
 # 🛠 Tech Stack  
 
-Languages:  
+## Languages:  
 • JavaScript (ES6+)  
 • TypeScript  
 
-Frameworks & Libraries:  
+## Frameworks & Libraries:  
 • Angular  
 • React  
 • Tailwind CSS  
 
-Backend & Tools:  
+## Backend & Tools:  
 • Supabase  
 • REST APIs  
 • Git & GitHub  
@@ -25,9 +25,9 @@ Backend & Tools:
 
 ---
 
-🚀 Featured Projects  
+# 🚀 Featured Projects  
 
-🔹 AlliaStore — Angular E-commerce App  
+## 🔹 AlliaStore — Angular E-commerce App  
 Live e-commerce platform built for a real business  
 • Authentication  
 • Admin dashboard  
@@ -35,13 +35,13 @@ Live e-commerce platform built for a real business
 • Supabase backend  
 🔗 https://allia-store.netlify.app/  
 
-🔹 HiroMate Dashboard (In Progress)  
+## 🔹 HiroMate Dashboard (In Progress)  
 Student management system with add/update/remove workflows  
 • Responsive UI  
 • Angular + TypeScript  
 🔗 https://herve-hiromate.netlify.app/  
 
-🔹 Foodera  
+## 🔹 Foodera  
 Responsive food services app  
 • Carousel UI  
 • Modern design  
@@ -49,21 +49,21 @@ Responsive food services app
 
 ---
 
-💼 Professional Experience  
+# 💼 Professional Experience  
 
 • Junior Frontend Engineer at Quanta LTD (Rwanda)  
 • Frontend Software Developer (Volunteer) at HiroMate  
 
 ---
 
-📫 Connect With Me  
+# 📫 Connect With Me  
 
-LinkedIn: https://www.linkedin.com/in/YOUR-USERNAME  
-Portfolio: YOUR-PORTFOLIO-LINK  
+LinkedIn: https://www.linkedin.com/in/hervé-mashukane-9b104b304
+Portfolio: [(https://herve-portfolio.netlify.app/)]
 
 ---
 
-📌 Availability  
+# 📌 Availability  
 
 I am actively open to frontend roles, internships, and junior engineer opportunities.  
 I am reliable, growth-driven, and focused on delivering measurable impact.
