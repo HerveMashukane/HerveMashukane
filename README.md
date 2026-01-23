@@ -1,38 +1,71 @@
-# 👋 Hi, I'm Hervé Mashukane
+👋 Hi, I'm Hervé Mashukane  
+Frontend Engineer | Angular • React • TypeScript • Tailwind CSS  
 
-I'm a passionate **Front-End Software Developer** specializing in **Angular**, **React**, **JavaScript**, **TypeScript**, and **Tailwind CSS**.  
-I enjoy building modern, responsive web applications and continuously learning new technologies.
-
----
-
-## 🛠️ Tech Stack
-- **Languages & Markup**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries**: Angular, React, Tailwind CSS
-- **Tools & Workflow**: Git, GitHub, VS Code, Chrome DevTools, Terminal/CLI
-- **Other**: DOM manipulation, OOP principles, Responsive Web Design, Component-Based Architecture
+I build real-world, production-ready web applications focused on performance, scalability, and clean UI architecture.  
+I have experience working both independently and within professional teams on live products, dashboards, and commercial platforms.
 
 ---
 
-## 🌟 Projects
-- 🔗 [**Portfolio Website**](https://github.com/HerveMashukane/Portfolio) – Showcasing my dev skills and projects (Angular + Tailwind CSS)
-- 🔗 [**HiroMate-App**](https://github.com/HerveMashukane/HiroMate-App) – Student management platform for addresses, status, etc.
-- 🔗 [**FoodieApp**](https://github.com/HerveMashukane/foodieApp) – Recipe management app for food lovers
+🛠 Tech Stack  
+
+Languages:  
+• JavaScript (ES6+)  
+• TypeScript  
+
+Frameworks & Libraries:  
+• Angular  
+• React  
+• Tailwind CSS  
+
+Backend & Tools:  
+• Supabase  
+• REST APIs  
+• Git & GitHub  
+• VS Code  
 
 ---
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/herv%C3%A9-mashukane-9b104b304/)
-- 🌐 [Portfolio Website](https://herve-portfolio.netlify.app/)
+🚀 Featured Projects  
+
+🔹 AlliaStore — Angular E-commerce App  
+Live e-commerce platform built for a real business  
+• Authentication  
+• Admin dashboard  
+• Product management  
+• Supabase backend  
+🔗 https://allia-store.netlify.app/  
+
+🔹 HiroMate Dashboard (In Progress)  
+Student management system with add/update/remove workflows  
+• Responsive UI  
+• Angular + TypeScript  
+🔗 https://herve-hiromate.netlify.app/  
+
+🔹 Foodera  
+Responsive food services app  
+• Carousel UI  
+• Modern design  
+🔗 https://herve-foodieapp.netlify.app/  
 
 ---
 
-## 📊 GitHub Stats
-📌 I'm actively improving my GitHub presence — more commits, contributions, and open-source work!
+💼 Professional Experience  
 
-![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=radical&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=radical)
+• Junior Frontend Engineer at Quanta LTD (Rwanda)  
+• Frontend Software Developer (Volunteer) at HiroMate  
 
 ---
+
+📫 Connect With Me  
+
+LinkedIn: https://www.linkedin.com/in/YOUR-USERNAME  
+Portfolio: YOUR-PORTFOLIO-LINK  
+
+---
+
+📌 Availability  
+
+I am actively open to frontend roles, internships, and junior engineer opportunities.  
+I am reliable, growth-driven, and focused on delivering measurable impact.
 
 _“Building better every day.”_ 🚀
