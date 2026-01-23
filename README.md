@@ -1,4 +1,4 @@
-👋 Hi, I'm Hervé Mashukane  
+# 👋 Hi, I'm Hervé Mashukane  
 Frontend Engineer | Angular • React • TypeScript • Tailwind CSS  
 
 I build real-world, production-ready web applications focused on performance, scalability, and clean UI architecture.  
@@ -6,7 +6,7 @@ I have experience working both independently and within professional teams on li
 
 ---
 
-🛠 Tech Stack  
+# 🛠 Tech Stack  
 
 Languages:  
 • JavaScript (ES6+)  
