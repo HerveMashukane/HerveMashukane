@@ -58,14 +58,11 @@ Responsive food services app
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity  
 
-[![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=default&hide_border=true)  
+![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=default&hide_border=true)  ](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=tokyonight&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=tokyonight&hide_border=true
-)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight)  
 
 ---
 
