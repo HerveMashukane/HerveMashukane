@@ -58,6 +58,14 @@ Responsive food services app
 
 ---
 
+### 📊 GitHub Stats  
+
+![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=default&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=default&hide_border=true)  
+
+---
+
 ## 📫 Connect With Me  
 
 LinkedIn: https://www.linkedin.com/in/hervé-mashukane-9b104b304
