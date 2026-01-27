@@ -68,8 +68,8 @@ Responsive food services app
 
 ## 📫 Connect With Me  
 
-LinkedIn: https://www.linkedin.com/in/hervé-mashukane-9b104b304
-Portfolio: https://herve-portfolio.netlify.app/
+🔗 [LinkedIn](https://www.linkedin.com/in/hervé-mashukane-9b104b304)  
+🌐 [Portfolio](https://herve-portfolio.netlify.app/)
 
 ---
 
