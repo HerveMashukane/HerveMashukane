@@ -53,7 +53,7 @@ Responsive food services app
 
 ## 💼 Professional Experience  
 
-• Junior Frontend Engineer at Quanta LTD (Rwanda)  
+• Junior Frontend Engineer at Quanta LTD (Remote)  
 • Frontend Software Developer (Volunteer) at HiroMate  
 
 ---
