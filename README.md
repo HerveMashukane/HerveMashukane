@@ -99,9 +99,9 @@ https://forward-to-success.vercel.app/
 ---
 ## 📊 GitHub Activity  
 
-![Hervé's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
