@@ -108,6 +108,9 @@ https://forward-to-success.vercel.app/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=3600" height="180"/>
 
 </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HerveMashukane&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Connect With Me
