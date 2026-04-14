@@ -97,16 +97,15 @@ https://forward-to-success.vercel.app/
 • Collaborated in a remote team environment
 
 ---
-## 📊 GitHub Activity  
 
 ## 📊 GitHub Activity  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=3600" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=3600" height="180"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HerveMashukane&theme=tokyonight"/>
