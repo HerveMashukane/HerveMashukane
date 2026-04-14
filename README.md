@@ -1,81 +1,122 @@
-## 👋 Hi, I'm Hervé Mashukane  
-### Frontend Engineer | Angular • React • TypeScript • Tailwind CSS  
+## 👋 Hi, I'm Hervé Mashukane
 
-I build real-world, production-ready web applications focused on performance, scalability, and clean UI architecture.  
-I have experience working both independently and within professional teams on live products, dashboards, and commercial platforms.
+### Frontend Engineer | Angular • React • Dashboards • API Integration
+
+I build scalable frontend applications with a strong focus on dashboards, admin panels, and API-driven systems.
+
+I specialize in transforming complex ideas into clean, responsive, and production-ready user interfaces using Angular and React.
+My work emphasizes performance, maintainability, and user experience.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### Languages:  
-• JavaScript (ES6+)  
-• TypeScript  
+### Languages
 
-### Frameworks & Libraries:  
-• Angular  
-• React  
-• Tailwind CSS  
+• JavaScript (ES6+)
+• TypeScript
 
-### Backend & Tools:  
-• Supabase  
-• REST APIs  
-• Git & GitHub  
+### Frameworks & Libraries
+
+• Angular
+• React
+• Tailwind CSS
+
+### Backend & Tools
+
+• Supabase
+• REST APIs
+• Git & GitHub
 • VS Code
 • Slack
 • Trello
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🔹 AlliaStore — Angular E-commerce App  
-Live e-commerce platform built for a real business  
-• Authentication  
-• Admin dashboard  
-• Product management  
-• Supabase backend  
-🔗 https://allia-store.netlify.app/  
+### 🔹 AlliaStore — E-commerce Dashboard
 
-### 🔹 HiroMate Dashboard (In Progress)  
-Student management system with add/update/remove workflows  
-• Responsive UI  
-• Angular + TypeScript  
-🔗 https://herve-hiromate.netlify.app/  
-
-### 🔹 Foodera  
-Responsive food services app  
-• Carousel UI  
-• Modern design  
-🔗 https://herve-foodieapp.netlify.app/  
+Modern e-commerce frontend with admin dashboard and API integration
+• Product management system
+• Admin dashboard UI
+• Authentication flow
+• API-driven dynamic data
+🔗 https://allia-store.netlify.app/
 
 ---
 
-## 💼 Professional Experience  
+### 🔹 MediHelper — Healthcare Management Dashboard
 
-• Junior Frontend Engineer at Quanta LTD (Remote)  
-• Frontend Software Developer (Volunteer) at HiroMate  
-
----
-
-### 📊 GitHub Activity  
-
-![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight)  
+Healthcare interface designed for managing patients and workflows
+• Dashboard UI for medical operations
+• Structured data visualization
+• Clean and scalable component architecture
+• Angular + Tailwind CSS
+*(Project in development)*
+🔗 https://medihelper-app.netlify.app/
 
 ---
 
-## 📫 Connect With Me  
+### 🔹 ForwardToSuccess — Education Platform
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hervé-mashukane-9b104b304)  
-🌐 [Portfolio](https://herve-portfolio.netlify.app/)
+Responsive learning platform focused on accessibility and simplicity
+• Multi-page structure (Home, Courses, Contact, etc.)
+• Course filtering functionality
+• Clean UI/UX design
+• React + Tailwind CSS
+*(Project in development)*
+https://forward-to-success.vercel.app/
 
 ---
 
-## 📌 Availability  
+## 💼 Professional Experience
 
-I am actively open to frontend roles, internships, and junior engineer opportunities.  
-I am reliable, growth-driven, and focused on delivering measurable impact.
+### Frontend Engineer — Quanta LTD (Remote)
 
-_“Building better every day.”_ 🚀
+• Built and maintained responsive web interfaces
+• Integrated REST APIs for dynamic data handling
+• Improved UI performance and consistency across applications
+• Collaborated on scalable frontend architecture
+
+---
+
+### Frontend Developer — Freelance
+
+• Developed dashboards, admin panels, and business web applications
+• Converted Figma designs into production-ready interfaces
+• Built reusable and maintainable UI components
+• Focused on performance optimization and clean code practices
+
+---
+
+### Frontend Developer — Volunteer (HiroMate)
+
+• Contributed to a student management system
+• Implemented UI components and user workflows
+• Collaborated in a remote team environment
+
+---
+
+## 📊 GitHub Activity
+
+![Hervé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane\&show_icons=true\&hide_border=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane\&layout=compact\&hide_border=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/hervé-mashukane-9b104b304
+🌐 Portfolio: https://herve-portfolio.netlify.app/
+
+---
+
+## 📌 Availability
+
+I am available for freelance projects, contract roles, and frontend development opportunities.
+
+I focus on building high-quality frontend systems that deliver real business value.
+
+*“Building scalable interfaces, one project at a time.”* 🚀
