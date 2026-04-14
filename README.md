@@ -99,11 +99,15 @@ https://forward-to-success.vercel.app/
 ---
 ## 📊 GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=3600)
+## 📊 GitHub Activity  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=3600)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HerveMashukane&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=HerveMashukane&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=3600" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerveMashukane&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=3600" height="180"/>
+
+</p>
 ---
 
 ## 📫 Connect With Me
