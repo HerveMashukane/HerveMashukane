@@ -93,7 +93,7 @@ I specialize in transforming complex requirements into clean, responsive, and ma
 
 ## 📫 Contact  
 
-LinkedIn: https://www.linkedin.com/in/hervemashukane
+LinkedIn: https://www.linkedin.com/in/hervemashukane     
 Portfolio: https://hervemashukaneportfolio.netlify.app/  
 
 ---
